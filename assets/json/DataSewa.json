@@ -1,0 +1,52 @@
+{
+    "Status":200,
+    "Message":"Berhasil",
+    "Data":[
+        {
+            "id":1,
+            "sewa":"Dewi",
+            "type":"Kamar",
+            "nama":"Kamar 1",
+            "foto":"assets/img/Item/Kamar/Kamar1.jpg",
+            "checkin":"20-05-2021",
+            "checkout":"25-05-2021",
+            "status":"Approve"
+        },  {
+            "id":2,
+            "sewa":"Ahmad",
+            "type":"Kamar",
+            "nama":"Kamar 3",
+            "foto":"assets/img/Item/Kamar/Kamar3.jpg",
+            "checkin":"24-05-2021",
+            "checkout":"29-07-2021",
+            "status":"Approve"
+        },  {
+            "id":3,
+            "sewa":"Dewi",
+            "type":"Transport",
+            "nama":"Sepeda Sierra Lite 26",
+            "foto":"assets/img/Item/Sepeda/Sepeda4.jpg",
+            "checkin":"20-05-2021",
+            "checkout":"25-05-2021",
+            "status":"Waitting"
+        },  {
+            "id":4,
+            "sewa":"Adit",
+            "type":"Kamar",
+            "nama":"Kamar 2",
+            "foto":"assets/img/Item/Kamar/Kamar2.jpg",
+            "checkin":"20-05-2021",
+            "checkout":"25-05-2021",
+            "status":"Waitting"
+        },  {
+            "id":5,
+            "sewa":"Ahmad",
+            "type":"Transport",
+            "nama":"Sepeda City Nevada",
+            "foto":"assets/img/Item/Sepeda/Sepeda1.jpg",
+            "checkin":"20-05-2021",
+            "checkout":"25-05-2021",
+            "status":"Approve"
+        }
+  ]
+}

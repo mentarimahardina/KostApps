@@ -1,0 +1,80 @@
+{
+    "Status":200,
+    "Message":"Berhasil",
+    "Data":[
+        {
+        "id":1,
+        "type":1,
+        "ukuran":"sepeda 1",
+        "harga":"Rp. 1.500.000",
+        "foto":"assets/img/Item/Sepeda/Sepeda1.jpg",
+        "nama":"Sepeda City Nevada",
+        "merek":"Polygon",
+        "norangka":"SEPEDA1",
+        "warna":"Cream",
+        "idgps":"GPS1",
+        "status":true
+        },
+    {
+        "id":2,
+        "type":1,
+        "ukuran":"sepeda 2",
+        "harga":"Rp. 2.500.000",
+        "foto":"assets/img/Item/Sepeda/Sepeda2.jpg",
+        "nama":"Sepeda Lovina 20",
+        "merek":"Polygon",
+        "norangka":"SEPEDA2",
+        "warna":"Pink",
+        "idgps":"GPS2",
+        "status":false
+        },{
+        "id":3,
+        "type":1,
+        "ukuran":"sepeda 3",
+        "harga":"Rp. 3.500.000",
+        "foto":"assets/img/Item/Sepeda/Sepeda3.jpg",
+        "nama":"Sepeda BMX 20 Rogue",
+        "merek":"Polygon",
+        "norangka":"SEPEDA3",
+        "warna":"Black",
+        "idgps":"GPS3",
+        "status":false
+        },{
+        "id":4,
+        "type":1,
+        "ukuran":"sepeda 4",
+        "harga":"Rp. 4.500.000",
+        "foto":"assets/img/Item/Sepeda/Sepeda4.jpg",
+        "nama":"Sepeda Sierra Lite 26",
+        "merek":"Polygon",
+        "norangka":"SEPEDA4",
+        "warna":"Black",
+        "idgps":"GPS4",
+        "status":false
+        },{
+        "id":5,
+        "type":1,
+        "ukuran":"sepeda 5",
+        "harga":"Rp. 5.500.000",
+        "foto":"assets/img/Item/Sepeda/Sepeda5.jpg",
+        "nama":"Sepeda MTB Junior Rudge 3 2017",
+        "merek":"Polygon",
+        "norangka":"SEPEDA5",
+        "warna":"Black",
+        "idgps":"GPS5",
+        "status":true
+        },{
+        "id":6,
+        "type":1,
+        "ukuran":"sepeda 6",
+        "harga":"Rp. 6.500.000",
+        "foto":"assets/img/Item/Sepeda/Sepeda6.jpg",
+        "nama":"Sepeda Sierra AX24",
+        "merek":"Polygon",
+        "norangka":"SEPEDA6",
+        "warna":"Tosca",
+        "idgps":"GPS6",
+        "status":true
+        }]
+
+}

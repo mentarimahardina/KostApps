@@ -1,0 +1,52 @@
+{
+    "Status":200,
+    "Message":"Berhasil",
+    "Data":[
+        {
+            "id":1,
+            "nama":"Admin",
+            "nik":"1212313243243",
+            "jk":"Perempuan",
+            "tgLahir":"20-05-2021",
+            "asal":"Padang",
+            "username": "admin",
+            "password":"admin",
+            "type":{"id":1, "name":"admin"}
+            
+        }, 
+        {
+            "id":2,
+            "nama":"Dewi",
+            "nik":"1212313243243",
+            "jk":"Perempuan",
+            "tgLahir":"20-05-2021",
+            "asal":"Padang",
+            "username": "user1",
+            "password":"user1",
+            "type":{"id":2, "name":"user"}
+            
+        },  {
+            "id":3,
+            "nama":"Ahmad",
+            "nik":"1212313243243",
+            "jk":"Laki-Laki",
+            "tgLahir":"24-05-2021",
+            "asal":"Jakarta" ,
+            "username": "user2",
+            "password":"user2",
+            "type":{"id":2, "name":"user"}
+            
+        }, {
+            "id":4,
+            "nama":"Adit",
+            "nik":"1212313243243",
+            "jk":"Laki-Laki",
+            "tgLahir":"20-05-2021",
+            "asal":"Bandung",
+            "username": "user3",
+            "password":"user3",
+            "type":{"id":2, "name":"user"}
+            
+        }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+    "Status":200,
+    "Message":"Berhasil",
+    "Data":[
+        {
+        "id":1,
+        "nama":"Sepeda",
+        "status":true
+    },
+    {
+        "id":2,
+        "nama":"Motor",
+        "status":false
+    }]
+}

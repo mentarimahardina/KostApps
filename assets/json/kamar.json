@@ -1,0 +1,107 @@
+{
+    "Status":200,
+    "Message":"Berhasil",
+    "Data":[
+        {
+        "id":1,
+        "nama":"Kamar 1",
+        "harga":"Rp. 1.500.000",
+        "foto":"assets/img/Item/Kamar/Kamar1.jpg",
+        "fasilitas":{
+            "kamarmandi":"dalam",
+            "kasur": "double",
+            "ukuran":"3 x 5 cm",
+            "AC":true
+        },"status":true
+    },
+    {
+        "id":2,
+        "nama":"Kamar 2",
+        "harga":"Rp. 2.500.000",
+        "foto":"assets/img/Item/Kamar/Kamar2.jpg",
+        "fasilitas":{
+            "kamarmandi":"dalam",
+            "kasur": "double",
+            "ukuran":"3 x 5 cm",
+            "AC":true
+        },"status":true
+    },{
+        "id":3,
+        "nama":"Kamar 3",
+        "harga":"Rp. 3.500.000",
+        "foto":"assets/img/Item/Kamar/Kamar3.jpg",
+        "fasilitas":{
+            "kamarmandi":"dalam",
+            "kasur": "double",
+            "ukuran":"3 x 5 cm",
+            "AC":true
+        },"status":true
+    },{
+        "id":4,
+        "nama":"Kamar 4",
+        "harga":"Rp. 4.500.000",
+        "foto":"assets/img/Item/Kamar/Kamar4.jpg",
+        "fasilitas":{
+            "kamarmandi":"dalam",
+            "kasur": "double",
+            "ukuran":"3 x 5 cm",
+            "AC":true
+        },"status":true
+    },{
+        "id":5,
+        "nama":"Kamar 5",
+        "harga":"Rp. 5.500.000",
+        "foto":"assets/img/Item/Kamar/Kamar5.jpg",
+        "fasilitas":{
+            "kamarmandi":"dalam",
+            "kasur": "double",
+            "ukuran":"3 x 5 cm",
+            "AC":true
+        },"status":true
+    },{
+        "id":6,
+        "nama":"Kamar 6",
+        "harga":"Rp. 6.500.000",
+        "foto":"assets/img/Item/Kamar/Kamar6.jpg",
+        "fasilitas":{
+            "kamarmandi":"dalam",
+            "kasur": "double",
+            "ukuran":"3 x 5 cm",
+            "AC":true
+        },"status":true
+    },{
+        "id":7,
+        "nama":"Kamar 7",
+        "harga":"Rp. 7.500.000",
+        "foto":"assets/img/Item/Kamar/Kamar7.jpg",
+        "fasilitas":{
+            "kamarmandi":"dalam",
+            "kasur": "double",
+            "ukuran":"3 x 5 cm",
+            "AC":true
+        },"status":true
+    },{
+        "id":8,
+        "nama":"Kamar 8",
+        "harga":"Rp. 8.500.000",
+        "foto":"assets/img/Item/Kamar/Kamar8.jpg",
+        "fasilitas":{
+            "kamarmandi":"dalam",
+            "kasur": "double",
+            "ukuran":"3 x 5 cm",
+            "AC":true
+        },"status":true
+    },{
+        "id":9,
+        "nama":"Kamar 9",
+        "harga":"Rp. 9.500.000",
+        "foto":"assets/img/Item/Kamar/Kamar9.jpg",
+        "fasilitas":{
+            "kamarmandi":"dalam",
+            "kasur": "double",
+            "ukuran":"3 x 5 cm",
+            "AC":true
+        },"status":true
+    }]
+
+}
